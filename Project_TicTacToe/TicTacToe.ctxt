@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=TicTacToe
+comment1.params=
+comment1.target=TicTacToe()
+comment2.params=won
+comment2.target=void\ setWon(boolean)
+comment3.params=temp
+comment3.target=void\ setPointsElement(Point)
+comment4.params=
+comment4.target=boolean\ getWon()
+comment5.params=temp
+comment5.target=boolean\ checkPoint(Point)
+comment6.params=
+comment6.target=boolean\ checkWon()
+comment7.params=
+comment7.target=void\ print()
+numComments=8

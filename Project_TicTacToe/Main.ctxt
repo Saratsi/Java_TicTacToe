@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=message
+comment1.target=void\ error(java.lang.String)
+comment2.params=source
+comment2.target=boolean\ check_symbol(java.lang.String)
+comment3.params=source
+comment3.target=boolean\ check_coord(java.lang.String)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
